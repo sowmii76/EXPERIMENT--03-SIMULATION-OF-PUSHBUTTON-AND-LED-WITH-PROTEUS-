@@ -180,9 +180,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Uploading sowmi 1.jpg…]()
-![Uploading sowmi 2.jpg…]()
 
+![sowmi 1](https://github.com/user-attachments/assets/3873aee8-3146-4d64-bbea-34054dc05a3a)
+
+![sowmi 2](https://github.com/user-attachments/assets/1c9bdcb7-067c-4fdd-9611-76d3b53fd180)
 
  
  
